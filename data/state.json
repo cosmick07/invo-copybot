@@ -1,5 +1,5 @@
 {
-  "cash": 9985.881091774261,
+  "cash": 9985.69605709495,
   "start": 10000,
   "peak_equity": 10036.041326689729,
   "positions": {
@@ -84,7 +84,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9254970118668316,
+      "size": -0.9212033871918646,
       "entry": 2327.9983624812317
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
@@ -102,7 +102,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.026325450494561,
+      "size": -0.026187212920977716,
       "entry": 80326.20757819268
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
@@ -198,7 +198,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ETH": {
       "coin": "ETH",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.6925084223514367,
+      "size": -0.6876734253444639,
       "entry": 2328.0350642601484
     },
     "0x45d26f28196d226497130c4bac709d808fed4029|NEAR": {
@@ -354,7 +354,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.00969729695584235,
+      "size": -0.00956498193763043,
       "entry": 80325.71753415083
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|INJ": {
@@ -480,7 +480,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -1.2033989265214347,
+      "size": -1.1987407753763262,
       "entry": 2327.9457507734087
     }
   },
@@ -534,7 +534,7 @@
   "traders_selected_at": 1792923551.6717253,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -2.8429070343457816,
-  "fees_paid": 11.276001191397244,
-  "runs": 124
+  "realized_pnl": -3.0036468186637677,
+  "fees_paid": 11.300296086389553,
+  "runs": 134
 }
