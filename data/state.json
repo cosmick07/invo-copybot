@@ -1,5 +1,5 @@
 {
-  "cash": 9989.230313439703,
+  "cash": 9989.068452124815,
   "start": 10000,
   "peak_equity": 10036.041326689729,
   "positions": {
@@ -12,7 +12,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|BTC": {
       "coin": "BTC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.0234580597022796,
+      "size": -0.02317971546104136,
       "entry": 80325.27608443338
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SUI": {
@@ -84,7 +84,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9454219283070553,
+      "size": -0.934203918265967,
       "entry": 2327.946097522192
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
@@ -102,7 +102,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.026889179441388248,
+      "size": -0.026562175898571683,
       "entry": 80325.29649845848
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
@@ -198,7 +198,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ETH": {
       "coin": "ETH",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.7025590331761754,
+      "size": -0.6981584367921264,
       "entry": 2327.9854250000003
     },
     "0x45d26f28196d226497130c4bac709d808fed4029|NEAR": {
@@ -480,8 +480,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -1.2616611719093345,
-      "entry": 2327.9424069150027
+      "size": -1.2469618011233785,
+      "entry": 2327.926262160014
     }
   },
   "traders": [
@@ -534,7 +534,7 @@
   "traders_selected_at": 1792923551.6717253,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 0.0,
-  "fees_paid": 10.769686560300759,
-  "runs": 4
+  "realized_pnl": -0.09862407458919253,
+  "fees_paid": 10.832923800599485,
+  "runs": 14
 }
