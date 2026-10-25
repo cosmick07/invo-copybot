@@ -1,7 +1,9 @@
 name: copy-bot
+# One long job sweeps every 60 seconds for ~5h40m, saving results every 10 minutes.
+# The hourly schedule queues the next job, which starts as soon as the current one ends.
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "7 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,21 +13,37 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 355
+    env:
+      TZ: Australia/Sydney
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Run bot
-        env:
-          TZ: Australia/Sydney
-        run: python copybot.py
-      - name: Save results
-        if: always()
+      - name: Sweep every minute
         run: |
+          set +e
           git config user.name "copy-bot"
           git config user.email "copy-bot@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || git commit -m "bot run $(date -u +%FT%TZ)"
-          git pull --rebase && git push
+          save() {
+            git add data
+            git diff --cached --quiet && return 0
+            git commit -q -m "bot run $(date -u +%FT%TZ)"
+            for i in 1 2 3; do
+              git pull -q --rebase && git push -q && return 0
+              sleep 5
+            done
+            echo "push failed, will retry at next save"
+          }
+          end=$((SECONDS + 340*60))
+          n=0
+          while [ $SECONDS -lt $end ]; do
+            start=$SECONDS
+            python copybot.py || true
+            n=$((n+1))
+            [ $((n % 10)) -eq 0 ] && save
+            wait=$((60 - (SECONDS - start)))
+            [ $wait -gt 0 ] && sleep $wait
+          done
+          save
