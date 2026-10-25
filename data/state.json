@@ -1,7 +1,7 @@
 {
-  "cash": 9989.255897160288,
+  "cash": 9989.230313439703,
   "start": 10000,
-  "peak_equity": 10009.224450209562,
+  "peak_equity": 10036.041326689729,
   "positions": {
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|XRP": {
       "coin": "XRP",
@@ -12,8 +12,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|BTC": {
       "coin": "BTC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.0233160584982368,
-      "entry": 80326.31675
+      "size": -0.0234580597022796,
+      "entry": 80325.27608443338
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SUI": {
       "coin": "SUI",
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9396989037324772,
-      "entry": 2327.9854250000003
+      "size": -0.9454219283070553,
+      "entry": 2327.946097522192
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.02672960124080318,
-      "entry": 80326.31675000001
+      "size": -0.026889179441388248,
+      "entry": 80325.29649845848
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -480,8 +480,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -1.2533071106430902,
-      "entry": 2327.9854250000003
+      "size": -1.2616611719093345,
+      "entry": 2327.9424069150027
     }
   },
   "traders": [
@@ -534,7 +534,7 @@
   "traders_selected_at": 1792923551.6717253,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 0,
-  "fees_paid": 10.744102839713506,
-  "runs": 3
+  "realized_pnl": 0.0,
+  "fees_paid": 10.769686560300759,
+  "runs": 4
 }
