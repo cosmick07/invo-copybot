@@ -1,5 +1,5 @@
 {
-  "cash": 9923.324514804859,
+  "cash": 9923.31508053419,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -552,8 +552,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.018964715294744663,
-      "entry": 80059.53078953797
+      "size": 0.019226819408636426,
+      "entry": 80058.54849256537
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ASTER": {
       "coin": "ASTER",
@@ -667,6 +667,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -50.47779022734817,
-  "fees_paid": 26.19769496780723,
-  "runs": 1124
+  "fees_paid": 26.207129238475588,
+  "runs": 1134
 }
