@@ -1,5 +1,5 @@
 {
-  "cash": 9930.62192984548,
+  "cash": 9930.580688038723,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -540,8 +540,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ETH": {
       "coin": "ETH",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.6686316961112526,
-      "entry": 2328.5551196959727
+      "size": -0.6684864691186094,
+      "entry": 2328.5815032900923
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|TIA": {
       "coin": "TIA",
@@ -552,7 +552,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.008475026238108273,
+      "size": 0.008180398014144122,
       "entry": 80441.53905045646
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ASTER": {
@@ -666,7 +666,7 @@
   "traders_selected_at": 1793010007.2920434,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -47.164161636088274,
-  "fees_paid": 22.21390851844885,
-  "runs": 844
+  "realized_pnl": -47.184845008950425,
+  "fees_paid": 22.234466952341858,
+  "runs": 854
 }
