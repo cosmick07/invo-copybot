@@ -1,5 +1,5 @@
 {
-  "cash": 9930.258736380025,
+  "cash": 9930.083696608544,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -72,7 +72,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|DOGE": {
       "coin": "DOGE",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -599.3873659240587,
+      "size": -469.6340502453285,
       "entry": 0.0764867375
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|HYPE": {
@@ -552,7 +552,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.009364146788721274,
+      "size": 0.009128817760707668,
       "entry": 80402.72611473441
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ASTER": {
@@ -666,7 +666,7 @@
   "traders_selected_at": 1793010007.2920434,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -47.27429470001678,
-  "fees_paid": 22.46696891997736,
-  "runs": 884
+  "realized_pnl": -47.436345309180936,
+  "fees_paid": 22.479958082294576,
+  "runs": 894
 }
