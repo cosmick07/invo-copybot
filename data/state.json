@@ -1,5 +1,5 @@
 {
-  "cash": 9902.414797797766,
+  "cash": 9902.171677915134,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.8820074880197668,
-      "entry": 2322.0721558083715
+      "size": -0.8868789159377508,
+      "entry": 2322.1985155958255
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.024584691394552587,
-      "entry": 80127.18831447343
+      "size": -0.024716898059392478,
+      "entry": 80129.1889985593
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -342,8 +342,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -1.025328767343242,
-      "entry": 2302.7495556899717
+      "size": -1.026016447100081,
+      "entry": 2302.95663951807
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
       "coin": "ASTER",
@@ -384,8 +384,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.007661877388967387,
-      "entry": 79747.93186506018
+      "size": -0.007793012525188943,
+      "entry": 79761.36465314314
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XMR": {
       "coin": "XMR",
@@ -456,8 +456,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.7947753655394411,
-      "entry": 1245.7597106434157
+      "size": -0.803400704110658,
+      "entry": 1246.4622163094925
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
       "coin": "ONDO",
@@ -546,7 +546,7 @@
   "traders_selected_at": 1793096440.936546,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -61.94843618819706,
-  "fees_paid": 35.63676601405565,
-  "runs": 1844
+  "realized_pnl": -62.16190137940765,
+  "fees_paid": 35.666420705477414,
+  "runs": 1854
 }
