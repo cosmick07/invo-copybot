@@ -1,5 +1,5 @@
 {
-  "cash": 9919.66563135553,
+  "cash": 9919.649945379144,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.936622015359001,
-      "entry": 2322.1773161929523
+      "size": -0.9414773867173156,
+      "entry": 2322.1479917211414
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.026235823307189068,
-      "entry": 80142.96670394784
+      "size": -0.0263758097302278,
+      "entry": 80141.8073125209
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -552,8 +552,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.014784258570408534,
-      "entry": 80066.25944300764
+      "size": 0.014939413687175931,
+      "entry": 80066.21012487284
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ASTER": {
       "coin": "ASTER",
@@ -673,6 +673,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -53.02400965176999,
-  "fees_paid": 27.31035899270703,
-  "runs": 1334
+  "fees_paid": 27.326044969094184,
+  "runs": 1344
 }
