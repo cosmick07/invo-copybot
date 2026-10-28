@@ -1,5 +1,5 @@
 {
-  "cash": 9593.762282597027,
+  "cash": 9593.746258700268,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.8507647066161934,
-      "entry": 2326.9075415575917
+      "size": -0.8560227594620683,
+      "entry": 2327.1130773309196
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.023832634018117967,
-      "entry": 80262.22026244631
+      "size": -0.02398623598630831,
+      "entry": 80268.941665571
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -138,8 +138,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ZEC": {
       "coin": "ZEC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.4927602791266305,
-      "entry": 1200.6329352477862
+      "size": -0.5009723087753511,
+      "entry": 1202.3264897545607
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|XPL": {
       "coin": "XPL",
@@ -655,6 +655,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -363.15670422692136,
-  "fees_paid": 43.08101317604875,
-  "runs": 2614
+  "fees_paid": 43.097037072805186,
+  "runs": 2624
 }
