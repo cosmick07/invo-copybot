@@ -1,5 +1,5 @@
 {
-  "cash": 9535.618019471629,
+  "cash": 9535.794156079579,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -402,7 +402,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ETH": {
       "coin": "ETH",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.47456289256072776,
+      "size": -0.4701839188209458,
       "entry": 2367.6247586168674
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|NEAR": {
@@ -510,7 +510,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
       "coin": "HYPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.6988888124060287,
+      "size": -0.5566039871278076,
       "entry": 81.76706207817638
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRAM": {
@@ -690,7 +690,7 @@
   "traders_selected_at": 1793182874.6979213,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -416.86809910789077,
-  "fees_paid": 47.51388142048105,
-  "runs": 3014
+  "realized_pnl": -416.6821452887052,
+  "fees_paid": 47.52369863171565,
+  "runs": 3024
 }
