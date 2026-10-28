@@ -1,5 +1,5 @@
 {
-  "cash": 9819.961047186396,
+  "cash": 9819.61235452222,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.8467457090007376,
-      "entry": 2326.0583100379176
+      "size": -0.851312975436393,
+      "entry": 2326.2836765757215
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.023666493847479514,
-      "entry": 80235.26598387676
+      "size": -0.02380612909993741,
+      "entry": 80242.15508488865
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -330,8 +330,8 @@
     "0x45d26f28196d226497130c4bac709d808fed4029|ETH": {
       "coin": "ETH",
       "leader": "0x45d26f28196d226497130c4bac709d808fed4029",
-      "size": -0.5217558521435566,
-      "entry": 2324.7793247025984
+      "size": -0.5274401703919326,
+      "entry": 2325.245826306795
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|LIT": {
       "coin": "LIT",
@@ -342,7 +342,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.9731886188299224,
+      "size": -0.9679466151677668,
       "entry": 2311.3135318136815
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
@@ -384,8 +384,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.009546712377553175,
-      "entry": 80033.93593634518
+      "size": -0.00995733533543428,
+      "entry": 80092.12201479702
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XMR": {
       "coin": "XMR",
@@ -546,7 +546,7 @@
   "traders_selected_at": 1793096440.936546,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -141.82926714751306,
-  "fees_paid": 38.20968566609465,
-  "runs": 2484
+  "realized_pnl": -142.14127798437198,
+  "fees_paid": 38.24636749341093,
+  "runs": 2494
 }
