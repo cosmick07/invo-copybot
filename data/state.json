@@ -1,5 +1,5 @@
 {
-  "cash": 9593.650183743375,
+  "cash": 9579.460391484521,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -12,8 +12,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|BTC": {
       "coin": "BTC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.02179986721224558,
-      "entry": 80285.32438576262
+      "size": -0.02140659114428592,
+      "entry": 80298.9555105427
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SUI": {
       "coin": "SUI",
@@ -36,7 +36,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ZEC": {
       "coin": "ZEC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.3397467478377298,
+      "size": -0.3292240466291916,
       "entry": 1199.2980825337588
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|XPL": {
@@ -60,7 +60,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SOL": {
       "coin": "SOL",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -5.928743615058945,
+      "size": -5.819070860609797,
       "entry": 100.78065785525342
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ENA": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.8833463445841722,
-      "entry": 2327.9619825861946
+      "size": -0.8670052884570172,
+      "entry": 2328.4769027304687
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.02489312951152929,
-      "entry": 80298.41990302321
+      "size": -0.024328479380082348,
+      "entry": 80312.55726451361
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -138,7 +138,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ZEC": {
       "coin": "ZEC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.5199135275394252,
+      "size": -0.504136236878877,
       "entry": 1205.4327330874385
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|XPL": {
@@ -192,14 +192,14 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|HYPE": {
       "coin": "HYPE",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -5.886660465784679,
+      "size": -5.70549299048757,
       "entry": 76.10435639436385
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ETH": {
       "coin": "ETH",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.6484416082311223,
-      "entry": 2326.8684425556057
+      "size": -0.6372059449223026,
+      "entry": 2327.400906834339
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|LIT": {
       "coin": "LIT",
@@ -210,8 +210,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.9977844422215749,
-      "entry": 2313.481456877971
+      "size": -0.9285329718097438,
+      "entry": 2314.451792563198
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
       "coin": "ASTER",
@@ -252,13 +252,13 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.01121753865451785,
-      "entry": 80214.60859151816
+      "size": -0.011987725256727646,
+      "entry": 80279.45960176928
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XMR": {
       "coin": "XMR",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.6206341439935357,
+      "size": -0.569479378435732,
       "entry": 595.345092057626
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|MON": {
@@ -312,20 +312,20 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|LTC": {
       "coin": "LTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.4240146433524982,
+      "size": -0.19319119136114926,
       "entry": 55.78459375000001
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|kPEPE": {
       "coin": "kPEPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -20434.99184967816,
+      "size": -18012.70151320058,
       "entry": 0.004271863
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.8395629454139247,
-      "entry": 1255.3564812116545
+      "size": -0.8019569197514157,
+      "entry": 1255.7265038827768
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
       "coin": "ONDO",
@@ -336,14 +336,14 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": 0.2169527646951308,
-      "entry": 80.68320852511056
+      "size": 1.832266642681859,
+      "entry": 80.97658443871818
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": 8.618223603790968,
-      "entry": 1.321725360670415
+      "size": 19.20998001965097,
+      "entry": 1.3267371326748747
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|GRAM": {
       "coin": "GRAM",
@@ -366,7 +366,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|PUMP": {
       "coin": "PUMP",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -27220.639310585917,
+      "size": -19921.990296773376,
       "entry": 0.004352822500000001
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ZRO": {
@@ -378,7 +378,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SOL": {
       "coin": "SOL",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -8.459373942706188,
+      "size": -8.12786761064841,
       "entry": 102.97537127002387
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|AAVE": {
@@ -390,7 +390,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|kPEPE": {
       "coin": "kPEPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -6612.960976106506,
+      "size": -4372.04169373512,
       "entry": 0.004975511
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|LTC": {
@@ -402,13 +402,13 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ETH": {
       "coin": "ETH",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.5617899563752909,
-      "entry": 2368.3684483863817
+      "size": -0.5820524439670709,
+      "entry": 2367.897210253037
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|NEAR": {
       "coin": "NEAR",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -14.783119809398647,
+      "size": -12.091941586222841,
       "entry": 4.706295675
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|AVAX": {
@@ -486,8 +486,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ZEC": {
       "coin": "ZEC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.17828966239712066,
-      "entry": 1316.091625
+      "size": -0.19001683371410794,
+      "entry": 1314.6944455242383
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|WLD": {
       "coin": "WLD",
@@ -510,7 +510,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
       "coin": "HYPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -2.965329852461781,
+      "size": -0.5557002897556567,
       "entry": 82.11342275
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRAM": {
@@ -564,8 +564,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.0012137646032435155,
-      "entry": 81160.47714609378
+      "size": -0.006097001540679576,
+      "entry": 81143.90775
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRASS": {
       "coin": "GRASS",
@@ -602,6 +602,12 @@
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
       "size": -67.18660702570718,
       "entry": 0.6322437200000001
+    },
+    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|STRK": {
+      "coin": "STRK",
+      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
+      "size": 215.6164969965284,
+      "entry": 0.046813394999999994
     }
   },
   "traders": [
@@ -654,7 +660,7 @@
   "traders_selected_at": 1793182874.6979213,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -362.7799373326621,
-  "fees_paid": 43.569878923969526,
-  "runs": 2724
+  "realized_pnl": -376.01475690002,
+  "fees_paid": 44.524851615469125,
+  "runs": 2734
 }
