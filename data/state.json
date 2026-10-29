@@ -1,5 +1,5 @@
 {
-  "cash": 9541.070423144478,
+  "cash": 9541.065221808238,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -564,8 +564,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.0017363444860362207,
-      "entry": 80068.94225004956
+      "size": -0.0018805962979410876,
+      "entry": 80073.42751913756
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRASS": {
       "coin": "GRASS",
@@ -697,6 +697,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -409.3420774499471,
-  "fees_paid": 49.58749940557383,
-  "runs": 3284
+  "fees_paid": 49.59270074181362,
+  "runs": 3294
 }
