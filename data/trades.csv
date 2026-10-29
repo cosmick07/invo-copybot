@@ -3956,3 +3956,4 @@ time,leader,coin,side,units,price,notional_usd,fee_usd,realized_pnl_usd,reason
 2026-10-30T06:37:07+11:00,0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36,BTC,SELL,0.000143348,80813.1,11.58,0.01,0.00,leader resized
 2026-10-30T06:37:07+11:00,0x7fdafde5cfb5465924316eced2d3715494c517d1,ETH,SELL,0.00539575,2331.18,12.58,0.01,0.00,leader resized
 2026-10-30T06:38:07+11:00,0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36,ETH,SELL,0.00440675,2331.28,10.27,0.00,0.00,leader resized
+2026-10-30T06:40:07+11:00,0x7fdafde5cfb5465924316eced2d3715494c517d1,HYPE,BUY,0.108203,93.6423,10.13,0.00,-0.21,leader resized
