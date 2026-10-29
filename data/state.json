@@ -1,5 +1,5 @@
 {
-  "cash": 9541.12787551678,
+  "cash": 9541.116306641163,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -552,8 +552,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|XRP": {
       "coin": "XRP",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -146.80915574129682,
-      "entry": 1.3270384386887213
+      "size": -155.1531121601186,
+      "entry": 1.3252456876188858
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|TAO": {
       "coin": "TAO",
@@ -564,8 +564,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.0012994403288107059,
-      "entry": 80055.42885659392
+      "size": -0.001485471574830412,
+      "entry": 80069.7013007988
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRASS": {
       "coin": "GRASS",
@@ -697,6 +697,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -409.3420774499471,
-  "fees_paid": 49.53004703327162,
-  "runs": 3264
+  "fees_paid": 49.541615908888396,
+  "runs": 3274
 }
