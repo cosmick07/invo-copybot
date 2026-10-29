@@ -1,5 +1,5 @@
 {
-  "cash": 9541.029639714852,
+  "cash": 9541.006653898872,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -198,8 +198,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ETH": {
       "coin": "ETH",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.6632269184942812,
-      "entry": 2329.290300176395
+      "size": -0.6675750079261552,
+      "entry": 2329.1991241457486
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|LIT": {
       "coin": "LIT",
@@ -210,8 +210,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.9607648830493798,
-      "entry": 2319.9618542437233
+      "size": -0.9609753988922056,
+      "entry": 2319.937608996297
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
       "coin": "ASTER",
@@ -510,8 +510,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
       "coin": "HYPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.5566039871278076,
-      "entry": 81.76706207817638
+      "size": -0.6828638647590246,
+      "entry": 81.3132793449185
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRAM": {
       "coin": "GRAM",
@@ -650,53 +650,53 @@
     {
       "address": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
       "name": "0x5b5d..c060",
-      "account_value": 212666670.3756,
-      "month_pnl": 105916972.240294,
-      "month_roi": 0.609602931,
-      "week_pnl": 18106932.952549,
-      "alltime_pnl": 178132033.7856
+      "account_value": 224276562.904016,
+      "month_pnl": 107055871.880575,
+      "month_roi": 0.5900050038,
+      "week_pnl": 31130361.6492,
+      "alltime_pnl": 197722903.85564
     },
     {
       "address": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
       "name": "0xb83d..6e36",
-      "account_value": 201269738.323858,
-      "month_pnl": 84042504.561144,
-      "month_roi": 0.5485099078,
-      "week_pnl": 13642121.596339,
-      "alltime_pnl": 135094837.663858
+      "account_value": 204348610.118201,
+      "month_pnl": 84448412.63190499,
+      "month_roi": 0.5042104703,
+      "week_pnl": 22504963.500065997,
+      "alltime_pnl": 148173709.458201
     },
     {
       "address": "0x87f9cd15f5050a9283b8896300f7c8cf69ece2cf",
       "name": "0x87f9..e2cf",
-      "account_value": 119776936.10450803,
-      "month_pnl": 24852029.815326005,
-      "month_roi": 0.2353044706,
-      "week_pnl": 3194056.402370999,
-      "alltime_pnl": 65143002.804507986
-    },
-    {
-      "address": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "name": "0xecb6..2b00",
-      "account_value": 93545562.521724,
-      "month_pnl": 22791145.526576,
-      "month_roi": 0.3479751166,
-      "week_pnl": 4029366.904578,
-      "alltime_pnl": 213744038.521724
+      "account_value": 121976854.76596503,
+      "month_pnl": 24850536.428723004,
+      "month_roi": 0.2275751212,
+      "week_pnl": 5513121.053794,
+      "alltime_pnl": 67342921.46596493
     },
     {
       "address": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
       "name": "BobbyBigSize",
-      "account_value": 44030900.259895,
-      "month_pnl": 22400208.199512,
-      "month_roi": 0.3371592931,
-      "week_pnl": 7164823.438549,
-      "alltime_pnl": 145319531.129895
+      "account_value": 48674362.64639399,
+      "month_pnl": 23242738.981581002,
+      "month_roi": 0.3273541785,
+      "week_pnl": 11957688.811022,
+      "alltime_pnl": 150774080.286394
+    },
+    {
+      "address": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
+      "name": "0xecb6..2b00",
+      "account_value": 93474347.649193,
+      "month_pnl": 20830003.763523,
+      "month_roi": 0.3017242623,
+      "week_pnl": 3171142.564618,
+      "alltime_pnl": 214305107.779193
     }
   ],
-  "traders_selected_at": 1793182874.6979213,
+  "traders_selected_at": 1793269313.1022098,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -409.29547995162073,
-  "fees_paid": 49.674880333527106,
-  "runs": 3324
+  "realized_pnl": -409.29918900066696,
+  "fees_paid": 49.69415710046103,
+  "runs": 3334
 }
