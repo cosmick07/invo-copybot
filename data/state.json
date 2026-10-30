@@ -1,5 +1,5 @@
 {
-  "cash": 9692.08712162043,
+  "cash": 9692.937595339567,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -246,8 +246,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XPL": {
       "coin": "XPL",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -736.4140494369809,
-      "entry": 0.07652468792470316
+      "size": -865.9320860529062,
+      "entry": 0.0770098066223732
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
@@ -378,7 +378,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SOL": {
       "coin": "SOL",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -6.667581591849166,
+      "size": -6.476951820947264,
       "entry": 99.33367781786504
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|AAVE": {
@@ -510,7 +510,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
       "coin": "HYPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -7.776146498520606,
+      "size": -7.663327002323791,
       "entry": 90.64640297223131
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRAM": {
@@ -564,8 +564,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.01487818124311207,
-      "entry": 76841.34585126129
+      "size": -0.01525444051146238,
+      "entry": 76844.0787115472
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRASS": {
       "coin": "GRASS",
@@ -750,7 +750,7 @@
   "traders_selected_at": 1793375979.267707,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -234.00259529386247,
-  "fees_paid": 73.91028308561138,
-  "runs": 4364
+  "realized_pnl": -233.1217163694511,
+  "fees_paid": 73.94068829088867,
+  "runs": 4374
 }
