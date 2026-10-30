@@ -1,5 +1,5 @@
 {
-  "cash": 9569.930553601476,
+  "cash": 9570.2734716354,
   "start": 10000,
   "peak_equity": 10232.312498660738,
   "positions": {
@@ -12,7 +12,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|BTC": {
       "coin": "BTC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.023167180621079152,
+      "size": -0.023038658784412972,
       "entry": 79993.1634128536
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SUI": {
@@ -390,7 +390,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|kPEPE": {
       "coin": "kPEPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -5415.831439125144,
+      "size": -3411.6934435097737,
       "entry": 0.004933532000000001
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|LTC": {
@@ -402,8 +402,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ETH": {
       "coin": "ETH",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.43882570528052933,
-      "entry": 2279.7071142088676
+      "size": -0.4523058807304365,
+      "entry": 2278.744766984325
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|NEAR": {
       "coin": "NEAR",
@@ -510,8 +510,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
       "coin": "HYPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -11.25697779970108,
-      "entry": 90.34577472809163
+      "size": -11.245274040017435,
+      "entry": 90.37793969981114
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRAM": {
       "coin": "GRAM",
@@ -564,7 +564,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.004631167924217853,
+      "size": 0.001612654138188054,
       "entry": 78372.24426998287
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRASS": {
@@ -720,7 +720,7 @@
   "traders_selected_at": 1793269313.1022098,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -365.5291206857817,
-  "fees_paid": 64.54032571268831,
-  "runs": 3794
+  "realized_pnl": -365.0464665712716,
+  "fees_paid": 64.68006179327362,
+  "runs": 3804
 }
