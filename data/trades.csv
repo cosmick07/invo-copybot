@@ -6740,3 +6740,5 @@ time,leader,coin,side,units,price,notional_usd,fee_usd,realized_pnl_usd,reason
 2026-11-01T06:18:15+11:00,0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36,BTC,SELL,0.000149755,77564.7,11.62,0.01,0.00,leader resized
 2026-11-01T06:18:16+11:00,0x7fdafde5cfb5465924316eced2d3715494c517d1,HYPE,SELL,0.132307,87.7616,11.61,0.01,0.00,leader resized
 2026-11-01T06:24:17+11:00,0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae,HYPE,SELL,0.129976,87.8246,11.42,0.01,0.00,leader resized
+2026-11-01T06:31:17+11:00,0x7fdafde5cfb5465924316eced2d3715494c517d1,HYPE,SELL,0.13977,87.9465,12.29,0.01,0.00,leader resized
+2026-11-01T06:35:16+11:00,0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae,HYPE,BUY,0.114962,88.1105,10.13,0.00,-0.07,leader resized

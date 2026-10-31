@@ -1,5 +1,5 @@
 {
-  "cash": 9743.826041596805,
+  "cash": 9743.744256769025,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -336,8 +336,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -15.259449891182367,
-      "entry": 91.1762090682702
+      "size": -15.399220277712145,
+      "entry": 91.14689479048207
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
@@ -474,7 +474,7 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|HYPE": {
       "coin": "HYPE",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -17.659269099637584,
+      "size": -17.54430673540715,
       "entry": 87.48689387218863
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TAO": {
@@ -576,7 +576,7 @@
   "traders_selected_at": 1793462415.250823,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -173.508184739099,
-  "fees_paid": 82.66577366400547,
-  "runs": 5054
+  "realized_pnl": -173.57987979639938,
+  "fees_paid": 82.67586343448596,
+  "runs": 5064
 }
