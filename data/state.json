@@ -1,5 +1,5 @@
 {
-  "cash": 9707.455112632026,
+  "cash": 9707.396018554968,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -342,7 +342,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": 21.874360410468856,
+      "size": 13.602505509225699,
       "entry": 1.2531510895778293
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|GRAM": {
@@ -390,8 +390,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|kPEPE": {
       "coin": "kPEPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -2027.2409510576854,
-      "entry": 0.0048995490000000004
+      "size": -4046.721132085713,
+      "entry": 0.0049883339018401964
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|LTC": {
       "coin": "LTC",
@@ -750,7 +750,7 @@
   "traders_selected_at": 1793375979.267707,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -216.48967905589618,
-  "fees_paid": 76.05520831199017,
-  "runs": 4664
+  "realized_pnl": -216.5395166886691,
+  "fees_paid": 76.06446475627544,
+  "runs": 4674
 }
