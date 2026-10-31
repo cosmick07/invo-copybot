@@ -1,5 +1,5 @@
 {
-  "cash": 9718.999585187144,
+  "cash": 9718.98554398367,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9360719090990975,
-      "entry": 2281.9031388628505
+      "size": -0.9406858975455721,
+      "entry": 2281.735010422369
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.024297656859876827,
-      "entry": 79060.55130827136
+      "size": -0.024434573555588437,
+      "entry": 79051.85581134289
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -342,8 +342,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -17.778415859257443,
-      "entry": 1.246682609164116
+      "size": -25.939180099156058,
+      "entry": 1.2484573061305502
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|GRAM": {
       "coin": "GRAM",
@@ -751,6 +751,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -203.8903044878792,
-  "fees_paid": 77.11011032489358,
-  "runs": 4834
+  "fees_paid": 77.12415152837013,
+  "runs": 4844
 }
