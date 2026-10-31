@@ -1,5 +1,5 @@
 {
-  "cash": 9718.98554398367,
+  "cash": 9742.55594950185,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -84,7 +84,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9406858975455721,
+      "size": -0.9360666453408462,
       "entry": 2281.735010422369
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
@@ -210,7 +210,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": 0.157188235049962,
+      "size": 0.15170768808584098,
       "entry": 2238.5803147779943
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
@@ -336,7 +336,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -14.641799880501155,
+      "size": -14.527332258815507,
       "entry": 91.42661963394059
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
@@ -363,323 +363,11 @@
       "size": -287.9046904689718,
       "entry": 0.12699647
     },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|PUMP": {
-      "coin": "PUMP",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -7886.049653389921,
-      "entry": 0.0041496997758871884
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ZRO": {
-      "coin": "ZRO",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 26.157933800098338,
-      "entry": 1.7353613243981785
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SOL": {
-      "coin": "SOL",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -7.306630598093756,
-      "entry": 98.62020077155674
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|AAVE": {
-      "coin": "AAVE",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.9793875736004031,
-      "entry": 126.26323852180002
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|kPEPE": {
-      "coin": "kPEPE",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -4046.721132085713,
-      "entry": 0.0049883339018401964
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|LTC": {
-      "coin": "LTC",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.6299426946465791,
-      "entry": 57.29084312162911
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ETH": {
-      "coin": "ETH",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.7182144982061358,
-      "entry": 2245.6708827448756
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|NEAR": {
-      "coin": "NEAR",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -12.636785191364881,
-      "entry": 4.373993590454231
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|AVAX": {
-      "coin": "AVAX",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -1.205443173855898,
-      "entry": 9.02538505
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|EIGEN": {
-      "coin": "EIGEN",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -89.0169506605053,
-      "entry": 0.2002998
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|PAXG": {
-      "coin": "PAXG",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.005691620679751207,
-      "entry": 4028.6890261477597
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|FARTCOIN": {
-      "coin": "FARTCOIN",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 377.0318162746921,
-      "entry": 0.13121315472837297
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|kBONK": {
-      "coin": "kBONK",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -9463.809672336754,
-      "entry": 0.0031114435
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|LINK": {
-      "coin": "LINK",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -19.21273144334542,
-      "entry": 11.026826317567103
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|CRV": {
-      "coin": "CRV",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -74.5883593810107,
-      "entry": 0.33895044
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|UNI": {
-      "coin": "UNI",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -15.355354453044958,
-      "entry": 6.78768270765381
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ARB": {
-      "coin": "ARB",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -132.48286612502906,
-      "entry": 0.16679803752777628
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ASTER": {
-      "coin": "ASTER",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -53.043771010634174,
-      "entry": 0.708384979558976
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ADA": {
-      "coin": "ADA",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 4.658471982845597,
-      "entry": 0.2079889425
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|LDO": {
-      "coin": "LDO",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -68.64076122878208,
-      "entry": 0.377081365
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ZEC": {
-      "coin": "ZEC",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.24991966199139387,
-      "entry": 1283.7088950445768
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|WLD": {
-      "coin": "WLD",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -40.24187507737462,
-      "entry": 0.437551115
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|PENGU": {
-      "coin": "PENGU",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -3666.8130604672274,
-      "entry": 0.0078190885
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ONDO": {
-      "coin": "ONDO",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -50.386156609115396,
-      "entry": 0.39012484000000003
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
-      "coin": "HYPE",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -7.038555368558321,
-      "entry": 90.26659558809904
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRAM": {
-      "coin": "GRAM",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -16.501633192646057,
-      "entry": 1.244327525
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|DOGE": {
-      "coin": "DOGE",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -2451.5868478840466,
-      "entry": 0.07812718027196107
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ENA": {
-      "coin": "ENA",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -671.6731002078593,
-      "entry": 0.19619038154734628
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BNB": {
-      "coin": "BNB",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.018162335576960252,
-      "entry": 728.0704865556353
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|XPL": {
-      "coin": "XPL",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -989.8918589915079,
-      "entry": 0.07622382579993729
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|VVV": {
-      "coin": "VVV",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -1.7998448976941404,
-      "entry": 24.356592456393777
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|XRP": {
-      "coin": "XRP",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -162.4111574198461,
-      "entry": 1.2731785487241802
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|TAO": {
-      "coin": "TAO",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.14330655862484606,
-      "entry": 257.141365
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
-      "coin": "BTC",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.008166674367087129,
-      "entry": 76926.6297929478
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRASS": {
-      "coin": "GRASS",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -23.715673361944177,
-      "entry": 0.72477743
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|TRX": {
-      "coin": "TRX",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 256.1012236701836,
-      "entry": 0.3347260368860883
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|POPCAT": {
-      "coin": "POPCAT",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -397.54237068386965,
-      "entry": 0.043792093000000004
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|CASHCAT": {
-      "coin": "CASHCAT",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -412.55858384048645,
-      "entry": 0.1025137175
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|JUP": {
-      "coin": "JUP",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 33.652394698165466,
-      "entry": 0.28416701250000004
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|VIRTUAL": {
-      "coin": "VIRTUAL",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -76.33302522336085,
-      "entry": 0.6098785265825818
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|STRK": {
-      "coin": "STRK",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 215.6164969965284,
-      "entry": 0.046813394999999994
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|MELANIA": {
-      "coin": "MELANIA",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 128.0174058497557,
-      "entry": 0.087473715
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|MET": {
-      "coin": "MET",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -65.40554416273868,
-      "entry": 0.30611719351548894
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SUI": {
-      "coin": "SUI",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -17.380250957838182,
-      "entry": 0.8994845710370664
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SPX": {
-      "coin": "SPX",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -26.620734904871426,
-      "entry": 0.394792505
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SEI": {
-      "coin": "SEI",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -188.08424635762478,
-      "entry": 0.0537701015
-    },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|XMR": {
       "coin": "XMR",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
       "size": -0.01696407427776536,
       "entry": 589.7199925
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|APT": {
-      "coin": "APT",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -15.440306220826749,
-      "entry": 0.6503746499999999
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|2Z": {
-      "coin": "2Z",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -391.26383053772713,
-      "entry": 0.026852567
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|TIA": {
-      "coin": "TIA",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -20.89487618235172,
-      "entry": 0.5045476000000001
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|USELESS": {
-      "coin": "USELESS",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -88.85505061811222,
-      "entry": 0.1303298025
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|XLM": {
-      "coin": "XLM",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -61.74393486246444,
-      "entry": 0.1666316425
-    },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|MORPHO": {
-      "coin": "MORPHO",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -4.836614416845157,
-      "entry": 2.086806075
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|VVV": {
       "coin": "VVV",
@@ -687,70 +375,208 @@
       "size": -0.44368057250731474,
       "entry": 22.529729500000002
     },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|LIT": {
-      "coin": "LIT",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 3.72290283364867,
-      "entry": 2.8284135
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|USELESS": {
+      "coin": "USELESS",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": 273.0794248656528,
+      "entry": 0.127073505
     },
-    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BCH": {
-      "coin": "BCH",
-      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.03504533720492608,
-      "entry": 286.18183750000003
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|REZ": {
+      "coin": "REZ",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -2679.502840828796,
+      "entry": 0.004241878000000001
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|XMR": {
+      "coin": "XMR",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -0.15881709206314404,
+      "entry": 594.1477775000001
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|GRAM": {
+      "coin": "GRAM",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -29.09372519694651,
+      "entry": 1.2169912
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|CHIP": {
+      "coin": "CHIP",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -5666.2902865713495,
+      "entry": 0.0434012885
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ZK": {
+      "coin": "ZK",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -1747.4244617762176,
+      "entry": 0.010528733
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|FET": {
+      "coin": "FET",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -1954.281471162559,
+      "entry": 0.16325333250000001
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ENA": {
+      "coin": "ENA",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": 64.87611530037265,
+      "entry": 0.19417704
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ZRO": {
+      "coin": "ZRO",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -324.0605751238131,
+      "entry": 1.8016487250000002
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|BTC": {
+      "coin": "BTC",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -0.0016424678337610017,
+      "entry": 77525.71775000001
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|CASHCAT": {
+      "coin": "CASHCAT",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -459.42387895155815,
+      "entry": 0.0941279125
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TIA": {
+      "coin": "TIA",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -53.94931655051984,
+      "entry": 0.489884935
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|STRK": {
+      "coin": "STRK",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -12532.9732686398,
+      "entry": 0.045767105
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ZEC": {
+      "coin": "ZEC",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -0.3019918784558216,
+      "entry": 1285.806775
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ETH": {
+      "coin": "ETH",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -0.04169147679349556,
+      "entry": 2248.4252250000004
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|MEGA": {
+      "coin": "MEGA",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -3277.49213322665,
+      "entry": 0.044877549999999995
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|HYPE": {
+      "coin": "HYPE",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -17.09594768819772,
+      "entry": 87.47574025
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TAO": {
+      "coin": "TAO",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -0.9533331184063222,
+      "entry": 237.42123000000004
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|FARTCOIN": {
+      "coin": "FARTCOIN",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -155.74418902191914,
+      "entry": 0.12183905
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|kPEPE": {
+      "coin": "kPEPE",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": 23628.846050049564,
+      "entry": 0.0049554765
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|XPL": {
+      "coin": "XPL",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -4606.383619478806,
+      "entry": 0.08135930000000001
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|SYRUP": {
+      "coin": "SYRUP",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -338.8613466635854,
+      "entry": 0.16045473250000003
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|BNB": {
+      "coin": "BNB",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": 0.622041975548303,
+      "entry": 705.4075274999999
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|PUMP": {
+      "coin": "PUMP",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -58574.655186706164,
+      "entry": 0.004183907
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|WLD": {
+      "coin": "WLD",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": 70.28001309767875,
+      "entry": 0.404312055
     }
   },
   "traders": [
     {
       "address": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
       "name": "0x5b5d..c060",
-      "account_value": 219673090.536743,
-      "month_pnl": 121426773.279483,
-      "month_roi": 0.4443857546,
-      "week_pnl": 44329503.417952,
-      "alltime_pnl": 219138455.786743
+      "account_value": 204576687.514071,
+      "month_pnl": 123055038.962867,
+      "month_roi": 0.6867603863,
+      "week_pnl": 24478193.61006,
+      "alltime_pnl": 214042052.764071
     },
     {
       "address": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
       "name": "0xb83d..6e36",
-      "account_value": 182000727.811367,
-      "month_pnl": 93765594.99970199,
-      "month_roi": 0.3839154091,
-      "week_pnl": 31709560.220939003,
-      "alltime_pnl": 162825828.58136702
+      "account_value": 171337421.904124,
+      "month_pnl": 99867382.32484,
+      "month_roi": 0.6169055235,
+      "week_pnl": 14675025.710733,
+      "alltime_pnl": 162162522.674124
     },
     {
       "address": "0x87f9cd15f5050a9283b8896300f7c8cf69ece2cf",
       "name": "0x87f9..e2cf",
-      "account_value": 113927744.32339896,
-      "month_pnl": 31063613.006864995,
-      "month_roi": 0.2020370799,
-      "week_pnl": 14651378.642803999,
-      "alltime_pnl": 77293934.023399
+      "account_value": 112131546.791827,
+      "month_pnl": 28619298.987774,
+      "month_roi": 0.2623975279,
+      "week_pnl": 10045407.589700997,
+      "alltime_pnl": 75497736.49182698
     },
     {
       "address": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
       "name": "BobbyBigSize",
-      "account_value": 53072939.308152996,
-      "month_pnl": 25014483.775026,
-      "month_roi": 0.3420490672,
-      "week_pnl": 14547884.738919,
-      "alltime_pnl": 153810200.88815302
+      "account_value": 47814316.748926,
+      "month_pnl": 26957616.643324003,
+      "month_roi": 0.3858180589,
+      "week_pnl": 8911967.214808,
+      "alltime_pnl": 153551578.328926
     },
     {
-      "address": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "name": "0xecb6..2b00",
-      "account_value": 111306354.575306,
-      "month_pnl": 22181509.247847,
-      "month_roi": 0.1838036963,
-      "week_pnl": 7179601.50954,
-      "alltime_pnl": 218686583.985306
+      "address": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "name": "0xfe7c..b7ae",
+      "account_value": 31524131.268754,
+      "month_pnl": 22035707.901253,
+      "month_roi": 0.7368832055,
+      "week_pnl": 2321802.1846829997,
+      "alltime_pnl": 8101828.156758
     }
   ],
-  "traders_selected_at": 1793375979.267707,
+  "traders_selected_at": 1793462415.250823,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -203.8903044878792,
-  "fees_paid": 77.12415152837013,
-  "runs": 4844
+  "realized_pnl": -175.05785840706176,
+  "fees_paid": 82.38619209100388,
+  "runs": 4854
 }
