@@ -1,5 +1,5 @@
 {
-  "cash": 9707.53101644709,
+  "cash": 9707.534706338967,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -210,7 +210,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": 0.26243219516244143,
+      "size": 0.2578879779116222,
       "entry": 2238.5803147779943
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
@@ -324,8 +324,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -1.1653719137262235,
-      "entry": 1257.1583727543903
+      "size": -1.1742954612326337,
+      "entry": 1257.2439162057528
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
       "coin": "ONDO",
@@ -336,8 +336,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -14.54974621437009,
-      "entry": 91.58839224728543
+      "size": -14.665605527751396,
+      "entry": 91.55744175118102
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
@@ -750,7 +750,7 @@
   "traders_selected_at": 1793375979.267707,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -216.24404231800824,
-  "fees_paid": 76.22494123481721,
-  "runs": 4714
+  "realized_pnl": -216.22610238348358,
+  "fees_paid": 76.23919127746522,
+  "runs": 4724
 }
