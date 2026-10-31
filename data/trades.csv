@@ -6711,3 +6711,4 @@ time,leader,coin,side,units,price,notional_usd,fee_usd,realized_pnl_usd,reason
 2026-11-01T04:28:15+11:00,0x7fdafde5cfb5465924316eced2d3715494c517d1,HYPE,SELL,0.114616,87.4188,10.02,0.00,0.00,leader resized
 2026-11-01T04:28:15+11:00,0x7fdafde5cfb5465924316eced2d3715494c517d1,ZEC,SELL,0.00933647,1278.41,11.94,0.01,0.00,leader resized
 2026-11-01T04:28:15+11:00,0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae,HYPE,SELL,0.126462,87.4188,11.06,0.00,0.00,leader resized
+2026-11-01T04:39:16+11:00,0x7fdafde5cfb5465924316eced2d3715494c517d1,ZEC,BUY,0.00937411,1285.99,12.06,0.01,-0.26,leader resized
