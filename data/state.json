@@ -1,5 +1,5 @@
 {
-  "cash": 9744.387624344718,
+  "cash": 9743.777574358834,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -276,7 +276,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|LIT": {
       "coin": "LIT",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -78.55225056357908,
+      "size": -75.19954771989711,
       "entry": 2.8929896067161183
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|DOGE": {
@@ -324,7 +324,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -1.1843430216424182,
+      "size": -1.1762735305363332,
       "entry": 1257.9358780080458
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
@@ -474,8 +474,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|HYPE": {
       "coin": "HYPE",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -17.111561160576255,
-      "entry": 87.47306982489756
+      "size": -17.247633290663526,
+      "entry": 87.47619773135102
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TAO": {
       "coin": "TAO",
@@ -576,7 +576,7 @@
   "traders_selected_at": 1793462415.250823,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -173.05591279255356,
-  "fees_paid": 82.55646286264609,
-  "runs": 4964
+  "realized_pnl": -173.65138174265692,
+  "fees_paid": 82.5710438984249,
+  "runs": 4974
 }
