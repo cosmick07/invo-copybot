@@ -1,5 +1,5 @@
 {
-  "cash": 9743.855813806522,
+  "cash": 9743.83117839356,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9372723122133252,
-      "entry": 2281.065061938231
+      "size": -0.9419288327056515,
+      "entry": 2280.92643279687
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.024379526351881085,
-      "entry": 79027.20436780274
+      "size": -0.02452928102659927,
+      "entry": 79018.27556439805
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -336,14 +336,14 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -15.12714288645713,
-      "entry": 91.20607439481373
+      "size": -15.259449891182367,
+      "entry": 91.1762090682702
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -34.06269662748073,
-      "entry": 1.2494270233612013
+      "size": -42.25394992487841,
+      "entry": 1.2506085669384264
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|GRAM": {
       "coin": "GRAM",
@@ -474,8 +474,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|HYPE": {
       "coin": "HYPE",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -17.407072043455447,
-      "entry": 87.48150335075069
+      "size": -17.52929289307204,
+      "entry": 87.48439010264073
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TAO": {
       "coin": "TAO",
@@ -577,6 +577,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -173.508184739099,
-  "fees_paid": 82.63600145429186,
-  "runs": 5034
+  "fees_paid": 82.66063686725072,
+  "runs": 5044
 }
