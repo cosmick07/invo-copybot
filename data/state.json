@@ -1,5 +1,5 @@
 {
-  "cash": 9719.004406478754,
+  "cash": 9718.999585187144,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -510,8 +510,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
       "coin": "HYPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -6.91675090374114,
-      "entry": 90.30720613153119
+      "size": -7.038555368558321,
+      "entry": 90.26659558809904
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|GRAM": {
       "coin": "GRAM",
@@ -751,6 +751,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -203.8903044878792,
-  "fees_paid": 77.1052890332845,
-  "runs": 4824
+  "fees_paid": 77.11011032489358,
+  "runs": 4834
 }
