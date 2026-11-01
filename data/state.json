@@ -1,5 +1,5 @@
 {
-  "cash": 9750.495756204662,
+  "cash": 9751.205750456977,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -12,7 +12,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|BTC": {
       "coin": "BTC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.02267667972594099,
+      "size": -0.022526020271970332,
       "entry": 79095.40162184123
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SUI": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9527363894209188,
-      "entry": 2280.0897280965955
+      "size": -0.9514954662428512,
+      "entry": 2280.0101835197743
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.0248489843704632,
-      "entry": 78970.1410649948
+      "size": -0.024807443831353315,
+      "entry": 78963.26832344991
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -324,7 +324,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.9954176830022707,
+      "size": -0.9846161374873914,
       "entry": 1257.7807854195219
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
@@ -336,8 +336,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -17.752905513189067,
-      "entry": 90.65309844952374
+      "size": -17.713650906044855,
+      "entry": 90.63626665354272
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
@@ -474,8 +474,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|HYPE": {
       "coin": "HYPE",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -17.319135155893814,
-      "entry": 87.50346782399795
+      "size": -17.301916206562407,
+      "entry": 87.50811925715676
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TAO": {
       "coin": "TAO",
@@ -576,7 +576,7 @@
   "traders_selected_at": 1793462415.250823,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -165.75321866341227,
-  "fees_paid": 83.75102513182813,
-  "runs": 5274
+  "realized_pnl": -164.98636135384996,
+  "fees_paid": 83.80788818907419,
+  "runs": 5284
 }
