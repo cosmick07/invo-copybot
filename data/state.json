@@ -1,5 +1,5 @@
 {
-  "cash": 9752.525263579852,
+  "cash": 9752.474774420487,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -12,8 +12,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|BTC": {
       "coin": "BTC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.0225197857734409,
-      "entry": 79077.95642761
+      "size": -0.02266910001321635,
+      "entry": 79069.76658738924
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SUI": {
       "coin": "SUI",
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9470295572233669,
-      "entry": 2279.870392913589
+      "size": -0.9524179359161994,
+      "entry": 2279.7877719486464
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.02463095086655014,
-      "entry": 78950.7866716972
+      "size": -0.024760330223982857,
+      "entry": 78945.27268730837
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -138,8 +138,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ZEC": {
       "coin": "ZEC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.7075278785917899,
-      "entry": 1234.3322622556677
+      "size": -0.7158983003590493,
+      "entry": 1234.4538033452661
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|XPL": {
       "coin": "XPL",
@@ -192,14 +192,14 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|HYPE": {
       "coin": "HYPE",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -8.237669264620889,
-      "entry": 84.41157935694085
+      "size": -8.357095467741093,
+      "entry": 84.45840976172587
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ETH": {
       "coin": "ETH",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.49755861958427916,
-      "entry": 2288.096443382423
+      "size": -0.5025961514953154,
+      "entry": 2287.8676213814697
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|LIT": {
       "coin": "LIT",
@@ -336,8 +336,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -17.4975218759367,
-      "entry": 90.59100032703158
+      "size": -17.647973357508697,
+      "entry": 90.56625723938443
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
@@ -426,8 +426,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ZRO": {
       "coin": "ZRO",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -313.5810320290992,
-      "entry": 1.8031747400073284
+      "size": -319.09860147860945,
+      "entry": 1.803653865636374
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|BTC": {
       "coin": "BTC",
@@ -450,8 +450,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|STRK": {
       "coin": "STRK",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -12100.90968859808,
-      "entry": 0.04571533994272061
+      "size": -12337.439166482747,
+      "entry": 0.04567819979183469
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ZEC": {
       "coin": "ZEC",
@@ -474,8 +474,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|HYPE": {
       "coin": "HYPE",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -17.17507945327372,
-      "entry": 87.51167754857913
+      "size": -17.31580283064019,
+      "entry": 87.5131156496336
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TAO": {
       "coin": "TAO",
@@ -577,6 +577,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -163.4792430738244,
-  "fees_paid": 83.99549334621851,
-  "runs": 5374
+  "fees_paid": 84.04598250558249,
+  "runs": 5384
 }
