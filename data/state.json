@@ -1,5 +1,5 @@
 {
-  "cash": 9753.81695547035,
+  "cash": 9753.807514157477,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -138,8 +138,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ZEC": {
       "coin": "ZEC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.7076487245159014,
-      "entry": 1234.4538033452661
+      "size": -0.7163045760015867,
+      "entry": 1234.5115199919048
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|XPL": {
       "coin": "XPL",
@@ -210,8 +210,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.2035142575731014,
-      "entry": 2266.7739735373257
+      "size": -0.20803623372901509,
+      "entry": 2266.792268080433
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
       "coin": "ASTER",
@@ -583,6 +583,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -161.70814618501586,
-  "fees_paid": 84.47489834452547,
-  "runs": 5584
+  "fees_paid": 84.48433965739824,
+  "runs": 5594
 }
