@@ -1,5 +1,5 @@
 {
-  "cash": 9811.880129522473,
+  "cash": 9811.727375594346,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -288,7 +288,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|NEAR": {
       "coin": "NEAR",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -71.61160710713774,
+      "size": -69.27787650436544,
       "entry": 4.270911787288061
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|VVV": {
@@ -480,7 +480,7 @@
   "traders_selected_at": 1793548850.0476117,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -98.29330845611901,
-  "fees_paid": 89.82656202130056,
-  "runs": 5614
+  "realized_pnl": -98.44151047244614,
+  "fees_paid": 89.8311139331008,
+  "runs": 5624
 }
