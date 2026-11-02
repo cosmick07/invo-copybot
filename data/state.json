@@ -1,5 +1,5 @@
 {
-  "cash": 9810.736273482573,
+  "cash": 9809.800340741378,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -102,7 +102,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.024493941348487466,
+      "size": -0.024349717747016525,
       "entry": 78885.89348679446
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
@@ -198,7 +198,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ETH": {
       "coin": "ETH",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.4962723170671882,
+      "size": -0.4917696462850794,
       "entry": 2287.209623921656
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|LIT": {
@@ -276,7 +276,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|LIT": {
       "coin": "LIT",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -74.336208282991,
+      "size": -71.05220578845109,
       "entry": 2.909266110983322
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|DOGE": {
@@ -324,8 +324,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.9592429547404188,
-      "entry": 1255.9341306647855
+      "size": -0.9683730780762577,
+      "entry": 1255.9340137003096
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
       "coin": "ONDO",
@@ -396,7 +396,7 @@
     "0xb695651daa495f59dd2725c6fe98322d8b51a92d|BTC": {
       "coin": "BTC",
       "leader": "0xb695651daa495f59dd2725c6fe98322d8b51a92d",
-      "size": -0.04479325057181771,
+      "size": -0.04464105519021054,
       "entry": 77959.02210780716
     },
     "0xb695651daa495f59dd2725c6fe98322d8b51a92d|XPL": {
@@ -480,7 +480,7 @@
   "traders_selected_at": 1793548850.0476117,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -98.22699373925242,
-  "fees_paid": 91.0367327780712,
-  "runs": 5884
+  "realized_pnl": -99.13796385982792,
+  "fees_paid": 91.06169539869056,
+  "runs": 5894
 }
