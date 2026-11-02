@@ -1,5 +1,5 @@
 {
-  "cash": 9807.897716942285,
+  "cash": 9807.877696119027,
   "start": 10000,
   "peak_equity": 10309.583867445333,
   "positions": {
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.025385003741454904,
-      "entry": 78764.39001016573
+      "size": -0.02552134421415144,
+      "entry": 78758.85668547552
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -336,8 +336,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -17.160702999933374,
-      "entry": 89.83876614496938
+      "size": -17.298081115249147,
+      "entry": 89.80344109920294
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
@@ -396,8 +396,8 @@
     "0xb695651daa495f59dd2725c6fe98322d8b51a92d|BTC": {
       "coin": "BTC",
       "leader": "0xb695651daa495f59dd2725c6fe98322d8b51a92d",
-      "size": -0.04605253489247373,
-      "entry": 77989.35948144
+      "size": -0.04633765944853842,
+      "entry": 77987.75507804552
     },
     "0xb695651daa495f59dd2725c6fe98322d8b51a92d|XPL": {
       "coin": "XPL",
@@ -487,6 +487,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": -98.56797603899253,
-  "fees_paid": 93.53430701861735,
-  "runs": 6444
+  "fees_paid": 93.55432784187558,
+  "runs": 6454
 }
