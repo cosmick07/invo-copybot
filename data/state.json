@@ -1,5 +1,5 @@
 {
-  "cash": 9887.276374506664,
+  "cash": 9887.908188092102,
   "start": 10000,
   "peak_equity": 10566.999570380327,
   "positions": {
@@ -210,14 +210,14 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.3968363926377776,
-      "entry": 2269.194648964576
+      "size": -0.40219034499156725,
+      "entry": 2268.9354636071225
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
       "coin": "ASTER",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -42.183271550385456,
-      "entry": 0.6951459645159458
+      "size": -56.75939915829305,
+      "entry": 0.6936049491257286
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|WLD": {
       "coin": "WLD",
@@ -252,7 +252,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.004314515773531491,
+      "size": -0.0038453273593916887,
       "entry": 78140.9115417723
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XMR": {
@@ -402,13 +402,13 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.01153565920687177,
-      "entry": 77270.6133350465
+      "size": 0.012675843204427415,
+      "entry": 77246.5247395109
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SOL": {
       "coin": "SOL",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -9.886024874485766,
+      "size": -9.768174263170465,
       "entry": 92.42262671507893
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|kPEPE": {
@@ -498,7 +498,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
       "coin": "HYPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -8.952791069546159,
+      "size": -8.82660950531272,
       "entry": 84.37368779299852
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SUI": {
@@ -648,7 +648,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ETH": {
       "coin": "ETH",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.7036516307337508,
+      "size": -0.6944244341916945,
       "entry": 2263.7266086226145
     }
   },
@@ -702,7 +702,7 @@
   "traders_selected_at": 1793642703.8479033,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": -12.245747844699185,
-  "fees_paid": 100.47787764853267,
-  "runs": 6514
+  "realized_pnl": -11.529217278158464,
+  "fees_paid": 100.56259462963489,
+  "runs": 6524
 }
