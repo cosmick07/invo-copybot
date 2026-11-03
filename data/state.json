@@ -1,5 +1,5 @@
 {
-  "cash": 10037.032132002347,
+  "cash": 10037.002978340566,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -60,8 +60,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SOL": {
       "coin": "SOL",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -7.422090840347571,
-      "entry": 97.75616994151122
+      "size": -7.538936686214268,
+      "entry": 97.66058016701665
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ENA": {
       "coin": "ENA",
@@ -138,8 +138,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ZEC": {
       "coin": "ZEC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.7542165621178799,
-      "entry": 1221.492468483703
+      "size": -0.7634861134902624,
+      "entry": 1220.3341384390644
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|XPL": {
       "coin": "XPL",
@@ -192,8 +192,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|HYPE": {
       "coin": "HYPE",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -10.785161867663902,
-      "entry": 84.55517928449233
+      "size": -10.9177147934589,
+      "entry": 84.5338461921429
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ETH": {
       "coin": "ETH",
@@ -252,8 +252,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": 0.0004985989171397174,
-      "entry": 76763.47373528032
+      "size": 0.0006357950649652997,
+      "entry": 76726.85559090515
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XMR": {
       "coin": "XMR",
@@ -402,8 +402,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.016335134762145407,
-      "entry": 76769.64901735527
+      "size": 0.016493135429954457,
+      "entry": 76767.96420867785
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SOL": {
       "coin": "SOL",
@@ -624,8 +624,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ZEC": {
       "coin": "ZEC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -0.09070123837282401,
-      "entry": 1159.7499139430988
+      "size": -0.09962891175441294,
+      "entry": 1156.8050274694044
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|PAXG": {
       "coin": "PAXG",
@@ -733,6 +733,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": 144.68143711097792,
-  "fees_paid": 107.64930510850853,
-  "runs": 7194
+  "fees_paid": 107.67845877028975,
+  "runs": 7204
 }
