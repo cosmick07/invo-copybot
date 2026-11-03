@@ -1,5 +1,5 @@
 {
-  "cash": 10051.102325456202,
+  "cash": 10051.55135116568,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -252,7 +252,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": 0.0014006353892751225,
+      "size": 0.0012445605595269554,
       "entry": 76901.00112006767
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XMR": {
@@ -336,7 +336,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -26.824986898210256,
+      "size": -26.668873385302508,
       "entry": 87.11674756148027
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
@@ -680,6 +680,12 @@
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
       "size": 591.3583567897863,
       "entry": 0.0170575245
+    },
+    "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|WLFI": {
+      "coin": "WLFI",
+      "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
+      "size": -196.74976594794038,
+      "entry": 0.051036469
     }
   },
   "traders": [
@@ -732,7 +738,7 @@
   "traders_selected_at": 1793642703.8479033,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 159.74470881105034,
-  "fees_paid": 108.64238335471214,
-  "runs": 7364
+  "realized_pnl": 160.20960084593483,
+  "fees_paid": 108.65824968011933,
+  "runs": 7374
 }
