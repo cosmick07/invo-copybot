@@ -1,5 +1,5 @@
 {
-  "cash": 10045.943183891348,
+  "cash": 10046.100171086398,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9801783084626361,
-      "entry": 2272.4307285460586
+      "size": -0.9817385143661166,
+      "entry": 2272.3575484027515
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.027872438553674668,
-      "entry": 78174.7794100124
+      "size": -0.02791551067427797,
+      "entry": 78165.72902254836
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -210,8 +210,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ETH": {
       "coin": "ETH",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.37647341489440395,
-      "entry": 2266.521164986465
+      "size": -0.38121969741390344,
+      "entry": 2266.4713267395764
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ASTER": {
       "coin": "ASTER",
@@ -402,8 +402,8 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.01541096313952801,
-      "entry": 76768.50286787908
+      "size": 0.015442113694201516,
+      "entry": 76768.82382588497
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SOL": {
       "coin": "SOL",
@@ -498,7 +498,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|HYPE": {
       "coin": "HYPE",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -9.163448387413695,
+      "size": -8.937870889577786,
       "entry": 84.15898682669813
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SUI": {
@@ -732,7 +732,7 @@
   "traders_selected_at": 1793642703.8479033,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 153.8844892472632,
-  "fees_paid": 107.94130535579191,
-  "runs": 7234
+  "realized_pnl": 154.08809608941766,
+  "fees_paid": 107.98792500289498,
+  "runs": 7244
 }
