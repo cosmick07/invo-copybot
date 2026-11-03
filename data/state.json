@@ -1,5 +1,5 @@
 {
-  "cash": 10048.054387383863,
+  "cash": 10049.248627938283,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -84,7 +84,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9817385143661166,
+      "size": -0.9758502677373845,
       "entry": 2272.3575484027515
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
@@ -102,7 +102,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.02791551067427797,
+      "size": -0.027779527506252268,
       "entry": 78165.72902254836
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
@@ -324,7 +324,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.3017826010488105,
+      "size": -0.2928380151024385,
       "entry": 1249.3593470599394
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
@@ -402,14 +402,14 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|BTC": {
       "coin": "BTC",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 0.014946328911748158,
+      "size": 0.014462847783584601,
       "entry": 76770.2015831108
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|SOL": {
       "coin": "SOL",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": -10.512847476004612,
-      "entry": 92.22061067653041
+      "size": -10.621678263254847,
+      "entry": 92.218416607974
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|kPEPE": {
       "coin": "kPEPE",
@@ -732,7 +732,7 @@
   "traders_selected_at": 1793642703.8479033,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 156.09709405539712,
-  "fees_paid": 108.04270667140729,
-  "runs": 7254
+  "realized_pnl": 157.32788698021213,
+  "fees_paid": 108.07925904180215,
+  "runs": 7264
 }
