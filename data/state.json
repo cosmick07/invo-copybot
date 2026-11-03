@@ -1,5 +1,5 @@
 {
-  "cash": 10047.775416307646,
+  "cash": 10047.32769680667,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -324,8 +324,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.49690502617770815,
-      "entry": 1229.4389194119851
+      "size": -0.5238018696565657,
+      "entry": 1229.1534462309703
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
       "coin": "ONDO",
@@ -354,7 +354,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|PUMP": {
       "coin": "PUMP",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -42404.8533080029,
+      "size": -40030.43624092206,
       "entry": 0.0040667126696503405
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|FARTCOIN": {
@@ -738,7 +738,7 @@
   "traders_selected_at": 1793642703.8479033,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 158.70117225839408,
-  "fees_paid": 110.92575595062746,
-  "runs": 7594
+  "realized_pnl": 158.27280407814268,
+  "fees_paid": 110.94510727135328,
+  "runs": 7604
 }
