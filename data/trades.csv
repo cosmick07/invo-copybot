@@ -9498,3 +9498,6 @@ time,leader,coin,side,units,price,notional_usd,fee_usd,realized_pnl_usd,reason
 2026-11-04T06:35:47+11:00,0x7fdafde5cfb5465924316eced2d3715494c517d1,ZEC,SELL,0.00948795,1206.65,11.45,0.01,0.00,leader resized
 2026-11-04T06:35:47+11:00,0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae,XPL,SELL,167.434,0.0631504,10.57,0.00,0.00,leader resized
 2026-11-04T06:35:47+11:00,0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae,NEAR,SELL,2.74685,3.82299,10.50,0.00,0.00,leader resized
+2026-11-04T06:42:47+11:00,0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae,BNB,BUY,0.0144704,696.983,10.09,0.00,0.00,leader resized
+2026-11-04T06:42:47+11:00,0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae,TRX,SELL,30.8692,0.323993,10.00,0.00,0.00,leader opened
+2026-11-04T06:42:47+11:00,0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae,HYPE,SELL,0.136305,85.032,11.59,0.01,0.00,leader resized

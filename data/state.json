@@ -1,5 +1,5 @@
 {
-  "cash": 9955.573143016534,
+  "cash": 9955.558888207152,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -420,8 +420,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|BNB": {
       "coin": "BNB",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": 0.5950782778646677,
-      "entry": 698.4740625
+      "size": 0.6095486991083383,
+      "entry": 698.4386728614879
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|SYRUP": {
       "coin": "SYRUP",
@@ -498,8 +498,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|HYPE": {
       "coin": "HYPE",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -19.976784600788122,
-      "entry": 86.58756331416657
+      "size": -20.113089739854715,
+      "entry": 86.5770211073762
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|PUMP": {
       "coin": "PUMP",
@@ -554,6 +554,12 @@
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
       "size": -14.31523897415039,
       "entry": 0.6983406550000001
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TRX": {
+      "coin": "TRX",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -30.86924984947187,
+      "entry": 0.32399292250000006
     }
   },
   "traders": [
@@ -607,6 +613,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": 72.39388095882708,
-  "fees_paid": 116.82073794216713,
-  "runs": 7704
+  "fees_paid": 116.83499275155077,
+  "runs": 7714
 }
