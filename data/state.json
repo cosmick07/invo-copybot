@@ -1,5 +1,5 @@
 {
-  "cash": 9955.215092211785,
+  "cash": 9954.709748718684,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -36,7 +36,7 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ZEC": {
       "coin": "ZEC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.3974520993966385,
+      "size": -0.3891053785135166,
       "entry": 1215.2110425739165
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|XPL": {
@@ -198,7 +198,7 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|ETH": {
       "coin": "ETH",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.484827724365867,
+      "size": -0.47988227335331907,
       "entry": 2280.014287794929
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|LIT": {
@@ -336,8 +336,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -25.326429488211698,
-      "entry": 86.94335210763089
+      "size": -25.463863788475546,
+      "entry": 86.93892133433357
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
@@ -450,7 +450,7 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ZEC": {
       "coin": "ZEC",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -0.2824764799563354,
+      "size": -0.27417209200214276,
       "entry": 1224.1083482613951
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|TAO": {
@@ -498,8 +498,8 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|HYPE": {
       "coin": "HYPE",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -19.426114379771388,
-      "entry": 86.5660650457039
+      "size": -19.422825427897294,
+      "entry": 86.56314899663526
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|PUMP": {
       "coin": "PUMP",
@@ -612,7 +612,7 @@
   "traders_selected_at": 1793729147.509086,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 72.4725278185168,
-  "fees_paid": 117.2574356066065,
-  "runs": 7804
+  "realized_pnl": 71.997215504684,
+  "fees_paid": 117.28746678587356,
+  "runs": 7814
 }
