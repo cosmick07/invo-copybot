@@ -1,5 +1,5 @@
 {
-  "cash": 9954.864947656504,
+  "cash": 9955.11444577636,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -258,8 +258,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XMR": {
       "coin": "XMR",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.7786612409161925,
-      "entry": 606.4733517097045
+      "size": -0.7995324085767155,
+      "entry": 607.0414414290959
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|MON": {
       "coin": "MON",
@@ -324,8 +324,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.6099184558215237,
-      "entry": 1227.986400463376
+      "size": -0.6192778543101725,
+      "entry": 1227.7333668782933
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
       "coin": "ONDO",
@@ -336,7 +336,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -27.181518201051084,
+      "size": -27.006855647080222,
       "entry": 86.96370848284741
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
@@ -540,14 +540,20 @@
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ZRO": {
       "coin": "ZRO",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
-      "size": -316.50636125404606,
-      "entry": 1.8895047750000002
+      "size": -322.04786662344935,
+      "entry": 1.889429961600876
     },
     "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|XPL": {
       "coin": "XPL",
       "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
       "size": -7186.946236624464,
       "entry": 0.0640769455
+    },
+    "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae|ASTER": {
+      "coin": "ASTER",
+      "leader": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
+      "size": -14.31523897415039,
+      "entry": 0.6983406550000001
     }
   },
   "traders": [
@@ -600,7 +606,7 @@
   "traders_selected_at": 1793729147.509086,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 71.55406221356998,
-  "fees_paid": 116.68911455693846,
-  "runs": 7664
+  "realized_pnl": 71.83047255773819,
+  "fees_paid": 116.71602678125078,
+  "runs": 7674
 }
