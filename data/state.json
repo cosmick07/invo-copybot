@@ -1,5 +1,5 @@
 {
-  "cash": 10054.691165796205,
+  "cash": 10054.649479129737,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -12,8 +12,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|BTC": {
       "coin": "BTC",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.023463864028259916,
-      "entry": 78379.452188289
+      "size": -0.02362403082179381,
+      "entry": 78371.87503939612
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|SUI": {
       "coin": "SUI",
@@ -84,8 +84,8 @@
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060|ETH": {
       "coin": "ETH",
       "leader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "size": -0.9311635442412728,
-      "entry": 2272.270109946927
+      "size": -0.9402537659437313,
+      "entry": 2272.35178416282
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|NEAR": {
       "coin": "NEAR",
@@ -102,8 +102,8 @@
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|BTC": {
       "coin": "BTC",
       "leader": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
-      "size": -0.02636472824662547,
-      "entry": 78152.18682423902
+      "size": -0.026631303305089834,
+      "entry": 78143.78037855895
     },
     "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36|SUI": {
       "coin": "SUI",
@@ -324,8 +324,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ZEC": {
       "coin": "ZEC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.38392066121334695,
-      "entry": 1235.1578232902928
+      "size": -0.40106147374473144,
+      "entry": 1233.945658362255
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|ONDO": {
       "coin": "ONDO",
@@ -336,8 +336,8 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|HYPE": {
       "coin": "HYPE",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -25.818559106517238,
-      "entry": 87.0600941102992
+      "size": -26.03376314019511,
+      "entry": 87.04086260958533
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XRP": {
       "coin": "XRP",
@@ -739,6 +739,6 @@
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
   "realized_pnl": 164.16623876111643,
-  "fees_paid": 109.47507296478747,
-  "runs": 7454
+  "fees_paid": 109.51675963125487,
+  "runs": 7464
 }
