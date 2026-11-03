@@ -1,5 +1,5 @@
 {
-  "cash": 9967.173550806561,
+  "cash": 9967.342364035894,
   "start": 10000,
   "peak_equity": 10749.177828672442,
   "positions": {
@@ -252,7 +252,7 @@
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|BTC": {
       "coin": "BTC",
       "leader": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
-      "size": -0.002097966060210911,
+      "size": -0.0019589510806901555,
       "entry": 77917.35798694743
     },
     "0x7fdafde5cfb5465924316eced2d3715494c517d1|XMR": {
@@ -618,7 +618,7 @@
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|TRX": {
       "coin": "TRX",
       "leader": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
-      "size": 248.31274983691594,
+      "size": 216.36061591787464,
       "entry": 0.3176519027343953
     },
     "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00|ZEC": {
@@ -726,7 +726,7 @@
   "traders_selected_at": 1793642703.8479033,
   "halted": false,
   "started_at": "2026-10-25T21:19:01.710279+11:00",
-  "realized_pnl": 71.97920873712755,
-  "fees_paid": 104.80565793045596,
-  "runs": 6854
+  "realized_pnl": 72.15745791922376,
+  "fees_paid": 104.81509388322004,
+  "runs": 6864
 }
